@@ -18,6 +18,8 @@ actual TigerTag apps live in their own repos:
 - **TigerTag mobile** (Flutter) — _private_
 - **TigerTag backend** (Firestore + Cloud Functions) — _private_
 
+Part of the [TigerSystem](https://tigersystem.io) ecosystem.
+
 If you're building something on top of TigerTag and you find a behaviour
 that disagrees with this documentation, **the documentation wins** — it
 means we shipped a regression. Please file an issue.
